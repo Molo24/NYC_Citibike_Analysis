@@ -18,4 +18,21 @@ The goal was to create a compelling visual story which can effectively describe 
     -  Map of drop-off locations
  4) Create a Tableau Story using the created charts.
 
-## Analysis
+## Analysis & Results
+Plase find the accompanying ```NYC_Citibike_Challenge.ipynb``` file to view how the data type of the duration data was converted using Python panda data frames.
+
+See Tableau analysis [HERE](https://public.tableau.com/app/profile/marc.corti/viz/GWCitiBikeChallenge/CitiBikeStory)
+
+## Summary
+From the Citi Bike analysis, there are some clear results:
+1) Males make up the vasy majority of all rides of the program
+2) Ride duration is typically under 1 hour. This is consistent with a program the costs more the more you ride and the use of these bikes as a means to commute.
+3) The bikes are mostly used M-F as a means to commute
+4) Subscribers make up most of the riders
+5) Pick-up and drop-off locations are concentrated in midtown and lower Manhattan.
+
+The above results are consistent with the use of the bikes as a means of commuting over short distances in midtown and lower Manhattan.
+
+Additional analysis could involve:
+1) Map of Pick-up and drop-off locations by day of week. The hypothesis is the pick-up and drop-off locations on Saturday and Sunday would be more prevelant around Central Park compared to midtown and lower Manhattan M-F.
+2) Age of rider compared to trip duration and day of week. Hypothesis would be M-F the rider age would swing younger due to commuting practices.
