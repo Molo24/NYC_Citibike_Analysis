@@ -3,7 +3,7 @@
 ## Overview & Purpose
 The purpose of the following analysis was to investigate Citi Bike (New York City bike share program) data using visualization techniques held within Tableau. Specifically, the analysis looked at ride duration by gender, daily ride behavior by gender and the most common pick-up and drop-off locations for riders.
 
-The goal was to create a compelling visual story which can effectively describe to the audience what the Cibi Bike rider behavior is like in New York City.
+The goal was to create a compelling visual story which can effectively describe to the audience what the Citi Bike rider behavior is like in New York City.
 
 ## Procedure
 1) Download the Citi Bike Share data from: https://ride.citibikenyc.com/system-data
